@@ -1,13 +1,27 @@
 @charset "UTF-8";
 .a{
   background-color: rgb(166, 111, 111);
+  color: #000;
+}
+#a{
+  background-color: rgb(166, 111, 111);
+  color: #000000;
+  margin-left: 30%;
+  font-size: 200%;
+}
+#aa{
+  background-color: rgb(166, 111, 111);
+  color: #000000;
+  margin-left: 10%;
+  font-size: 200%;
 }
 #title {
-font-size: 400%;
+  background-color: rgb(166, 111, 111);
+font-size: 200%;
   font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: 900;
   font-style: normal;
-  margin-top: -1%;
+  margin-top: 0%;
 }
 
 #head_Link{
